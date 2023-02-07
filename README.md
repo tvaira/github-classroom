@@ -65,6 +65,10 @@ Le dépôt privé d'un étudiant automatiquement créé par [Github Classroom](h
 
 ![](images/screenshot-github.png)
 
+Chaque _commit/push_ déclenche un _workflow_ dans Github Actions :
+
+![](images/screenshot-autograding.png)
+
 Lors de la création du devoir, il est possible d’y associer une _Pull Request_ _Feedback_ pour assurer une communication Étudiant/Enseignant sur ce devoir (mettre des commentaires et/ou répondre aux questions d’un étudiant) :
 
 ![](images/screenshot-feedback.png)
