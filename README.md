@@ -51,6 +51,10 @@ Chaque exemple de devoir intègre la notation automatique avec sa visualisation 
 
     https://github.com/btssn-lasalle84/tp-poo-flutter
 
+- ![Go Badge](https://img.shields.io/badge/Go-ED8B00?style=for-the-badge&logo=go&logoColor=white&style=plastic)
+
+    https://github.com/btssn-lasalle84/tp-poo-go
+
 ## Aperçu
 
 Ma salle de classe pour cette année :
